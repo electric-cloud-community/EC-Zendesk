@@ -1,4 +1,4 @@
-# EC-Liquibase
+# EC-Zendesk
 ==============
 
 The ElectricFlow integration with Zendesk
@@ -9,7 +9,7 @@ The ElectricFlow integration with Zendesk
 
 ## Installation
 
-`ectool installPlugin EC-Liquibase.jar`
+`ectool installPlugin EC-Zendesk.jar`
 
 #### Prerequisite build: ####
 
